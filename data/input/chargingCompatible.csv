@@ -1,0 +1,6 @@
+Segment,Socket_2.3kW_AC,AC_3.7kW,AC_7.4kW,AC_11kW,AC_22kW,AC_43kW,DC_50kW,DC_75kW,DC_150kW,DC_300kW
+PKW,True,True,True,True,True,True,True,True,True,False
+Van,True,True,True,True,True,True,True,True,True,False
+LKW (under 7.5t),False,False,False,False,False,False,True,True,True,True
+LKW (over 7.5t),False,False,False,False,False,False,True,True,True,True
+Bus,False,False,False,False,False,False,True,True,True,False
