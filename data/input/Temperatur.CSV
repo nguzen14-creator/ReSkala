@@ -1,0 +1,6 @@
+Temp_from,Temp_to,Capacity_min,Capacity_max,Range_min,Range_max
+ -20 , -10,45,55,40,50
+ -10, 0,55,70,50,75
+0,15,70,90,75,90
+15, 35,95,100,95,100
+35, 40,90,95,75,95
